@@ -1,0 +1,63 @@
+body {
+    background-color: #f4f4f4;
+  }
+  .custom-caption {
+    background: rgba(0, 0, 0, 0.5);
+    color: white;
+    padding: 10px;
+  }
+  .custom-navbar {
+    background-color: #007BFF;
+  }
+  .custom-brand {
+    font-size: 24px;
+  }
+  .custom-toggler-icon {
+    background-color: #fff;
+  }
+  .custom-toggler-icon:hover {
+    background-color: #007BFF;
+  }
+  .custom-nav-link {
+    color: #fff;
+    font-weight: 500;
+  }
+  .custom-nav-link:hover {
+    color: #ccc;
+  }
+  .custom-about {
+    background-color: #222;
+  }
+  .custom-about h2 {
+    color: #007BFF;
+  }
+  .custom-services {
+    background-color: #fff;
+  }
+  .custom-services h2 {
+    color: #007BFF;
+  }
+  .custom-location {
+    margin-top: 20px;
+  }
+  .custom-contact {
+    background-color: #f4f4f4;
+  }
+  .custom-contact h2 {
+    color: #007BFF;
+  }
+  .custom-social-btn {
+    font-size: 18px;
+    padding: 10px 20px;
+    margin: 10px;
+  }
+  .custom-footer {
+    background-color: #007BFF;
+    color: #fff;
+    padding: 10px 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    z-index: 1;
+  }
